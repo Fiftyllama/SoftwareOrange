@@ -1,2 +1,2 @@
 # SoftwareOrange
-little script that tries to "recreate" the cinemascreen scene in clockwork orange
+little script that tries to "recreate" the cinema scene in clockwork orange
